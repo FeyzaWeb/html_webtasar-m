@@ -1,0 +1,1 @@
+Bu metin. Live Server üzerinden AJAX ile başarıyla yüklendi.
